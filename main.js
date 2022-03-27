@@ -53,6 +53,8 @@ question5btn.onclick = function(){
     }
 }
 
+
+
 document.querySelector('#redirect')
 .addEventListener('click', () =>{
     window.location.href="form.html"
